@@ -30,6 +30,7 @@
 - `2022-03` [2D Physics Engine](https://youtu.be/MUlJBPiigdM): GJK,EPA,Edge Cliping을 이용한 2D 물리 엔진
 - `2022-03` [Mesh Slicing](https://youtu.be/ac-RdJ4ueUU) [Code](https://github.com/mohitto55/Mesh-Slicing): 3D 메쉬 자르기
 ### Unity
+- `2021-10` 커스텀 트리거 에디터 : 작업효율 향상을 위한 트리거 에디터 제작
 
 ### Server
 
