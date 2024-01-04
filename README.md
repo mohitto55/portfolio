@@ -1,9 +1,20 @@
 # mohitto55(전진성)
 ---
+# Content
+---
+- Github : [mohitto55](https://github.com/mohitto55)
+- Blog : [mohitto55](https://myprogramming.tistory.com/)
+- Youtube : [mohitto55](https://www.youtube.com/channel/UC8W2bMSmNDc4C8LNdywOhsw)
+
 
 ## Personal Experiences
 ---
+### Launching Games
+|Name|Date|Platform|
+|----|----|---------|
+|[MonCounter](https://play.google.com/store/apps/details?id=com.Haneol.HuntMonster&hl=ko-KR)| 2022-1 | Google PlayStore |
 ### Game
+- `2021-06` [Bezier Curve Editor](): 베지어 곡선을 이용한 패스 설정 에디터
 - `2021-11` [2D Platform Pathfinding](https://youtu.be/3GwQs5rI4q4): A*알고리즘으로 만든 2D 플랫포머 길찾기 알고리즘
 - `2022-02` [Collision Detection Algotithm](https://www.slideshare.net/ssuserbe87d6/collision-detection-algorithms): AABB,OBB,GJK 알고리즘 PPT
 - `2022-02` [Delaunay Triangulation](https://www.slideshare.net/ssuserbe87d6/ss-251207958): 들로네 삼각분할 알고리즘 PPT
