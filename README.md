@@ -9,6 +9,9 @@
 - Youtube : [mohitto55](https://www.youtube.com/channel/UC8W2bMSmNDc4C8LNdywOhsw)
 
 # :office:Careers
+- `2021-01` 청강GGJ 참여 : 글로벌 게임잼 참가. 5일 동안 간단한 게임 제작
+- `2023-02` BIC 기획부문 도전 : 군 복무 중 마음 맞는 인원들 끼리 모여 3달간 준비 하였으나 사고로 인해 중단
+
 ### Launching Games
 |Name|Date|Platform|Store|
 |----|----|---------|----|
