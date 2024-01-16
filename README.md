@@ -5,7 +5,7 @@
 # :mailbox_closed:	Content
 
 - Github : [mohitto55](https://github.com/mohitto55)
-- Blog : [mohitto55](https://myprogramming.tistory.com/)
+- Blog : [mohitto55](https://mohitto55.github.io/)
 - Youtube : [mohitto55](https://www.youtube.com/channel/UC8W2bMSmNDc4C8LNdywOhsw)
 
 # :office:Careers
