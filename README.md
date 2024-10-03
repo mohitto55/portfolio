@@ -7,8 +7,9 @@
 - Github : [mohitto55](https://github.com/mohitto55)
 - Blog : [mohitto55](https://mohitto55.github.io/)
 - Youtube : [mohitto55](https://www.youtube.com/channel/UC8W2bMSmNDc4C8LNdywOhsw)
+- BOJ : [User](https://www.acmicpc.net/user/dkak14)
 
-# :office:Careers
+# :office:Team Project
 - `2021-06` 한얼 동아리 1차 프로젝트 : 6명 인원 팀으로 "옥수수알의 우당탕탕 대모험" 2D 탈출게임 제작
 - `2022-01` 한얼 2차 프로젝트 : 9인팀으로 MonCounter 출시
 - `2022-01` 청강GGJ 참여 : 글로벌 게임잼 참가. 5일 동안 간단한 게임 제작
@@ -27,11 +28,12 @@
 - `2021-11` [2D Platform Pathfinding](https://youtu.be/3GwQs5rI4q4): A*알고리즘으로 만든 2D 플랫포머 길찾기 알고리즘
 - `2022-02` [Collision Detection Algotithm](https://www.slideshare.net/ssuserbe87d6/collision-detection-algorithms): AABB,OBB,GJK 알고리즘 PPT
 - `2022-02` [Delaunay Triangulation](https://www.slideshare.net/ssuserbe87d6/ss-251207958): 들로네 삼각분할 알고리즘 PPT
-- `2022-03` [2D Physics Engine](https://youtu.be/MUlJBPiigdM): GJK,EPA,Edge Cliping을 이용한 2D 물리 엔진
+- `2022-03` [2D Physics Engine](https://youtu.be/MUlJBPiigdM): GJK,EPA,Edge Cliping 및 2DElastic Collision을 이용한 2D 물리 엔진
 - `2022-03` [Mesh Slicing](https://youtu.be/ac-RdJ4ueUU) [Code](https://github.com/mohitto55/Mesh-Slicing): 3D 메쉬 자르기
+
 ### Unity
 - `2021-10` 커스텀 트리거 에디터 : 작업효율 향상을 위한 트리거 에디터 제작
 
-### Server
+## Unreal Engine5
+- `2024-06` [UnrealEngine5 Steam Online Subsystem]([https://youtu.be/ac-RdJ4ueUU](https://www.youtube.com/watch?v=d4iWSslU35I)) : 스팀 연동 및 AWS, Docker, Mysql로 구성한 DB에 연결되는 TPS게임
 
-### Compiler
